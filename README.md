@@ -1,4 +1,4 @@
-# Projeto de Automação de Carga de Formulários
+# Projeto de Automação de Envio de Formulários
 
 Este projeto automatiza o processo de geração e envio de formulários para uma API, com base em dados de planilhas Excel (.xlsx) e arquivos CSV de referência.
 
