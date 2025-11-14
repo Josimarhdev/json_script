@@ -7,8 +7,8 @@ from dotenv import load_dotenv
 
 def enviar_payloads():
    
-    #Carrega todos os arquivos .json da pasta 'outputs' e faz um POST
-    #para a API definida no arquivo .env.
+    #Carrega todos os arquivos .json da pasta outputs e faz um POST
+    #para a API definida no arquivo .env
    
     
     # 1. Carregar Configurações do .env 
@@ -101,12 +101,12 @@ def enviar_payloads():
             print(f"  [FALHA] Ocorreu um erro inesperado durante o POST: {e}", file=sys.stderr)
             falhas += 1
 
-    # --- 5. Resumo Final ---
+    # 5. Resumo Final 
     print("\n--- Processamento Concluído ---")
     print(f"Sucessos: {sucessos}")
     print(f"Falhas:   {falhas}")
 
 
-# --- Executa a função principal ---
+# Executa a função principal
 if __name__ == "__main__":
     enviar_payloads()
