@@ -6,10 +6,10 @@ import requests
 from dotenv import load_dotenv
 
 def enviar_payloads():
-    """
-    Carrega todos os arquivos .json da pasta 'outputs' e faz um POST
-    para a API definida no arquivo .env.
-    """
+   
+    #Carrega todos os arquivos .json da pasta 'outputs' e faz um POST
+    #para a API definida no arquivo .env.
+   
     
     # 1. Carregar Configurações do .env 
     try:
