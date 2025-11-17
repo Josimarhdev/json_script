@@ -84,7 +84,7 @@
                 "vr_preco_medio": 3.5
             },
             {
-                "fk_gsr_id": 40,
+                "fk_gsr_id": 29,
                 "fk_gtr_id": null,
                 "vr_quantidade": 55.0,
                 "vr_valor": 2.75,

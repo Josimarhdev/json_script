@@ -38,7 +38,7 @@ gsr_id,gsr_subtipo,gsr_codigo,gsr_ativo,fk_gtr_id
 37,Branco,CF-29b,true,13
 38,Preto,CF-29c,true,13
 39,Transparente,CF-29d,true,13
-40,Colorido,CF-29e,true,13
+40,Plástico Colorido,CF-29e,true,13
 41,Pote de margarina,CF-29f,true,13
 42,Mineral (copinho de água),CF-29g,true,13
 43,"Filme (estralador, embalagens de bolacha maria)",CF-29h,true,13
